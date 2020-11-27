@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustRentItPapi", "JustRentItPapi\JustRentItPapi.csproj", "{D43872B6-A00F-433A-96D1-6A8862EF60FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43872B6-A00F-433A-96D1-6A8862EF60FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43872B6-A00F-433A-96D1-6A8862EF60FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43872B6-A00F-433A-96D1-6A8862EF60FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43872B6-A00F-433A-96D1-6A8862EF60FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30CEFF96-F064-48C9-B2DB-2CF1DD5438DB}
+	EndGlobalSection
+EndGlobal
