@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xg27StgugOp1crt7e9c2faxbkFznqadx96GHqJqe8swd5uSWtuf0lK9Zy/VXJmUV2hVvXaxCMNtosrvNBK0L2Q==",
+  "dgSpecHash": "FyIHneK8CASGwENHafulpH8vxXDfhXrINg6pQWDaBm/W8yFBIHoUFmyuQ+VcNnwTjeHoBRts1uWmARVun5ZwMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luanr\\source\\repos\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj",
+  "projectFilePath": "C:\\Users\\luanr\\Desktop\\COMP306\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luanr\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\2.0.0\\amazon.extensions.configuration.systemsmanager.2.0.0.nupkg.sha512",
     "C:\\Users\\luanr\\.nuget\\packages\\awssdk.core\\3.5.1.6\\awssdk.core.3.5.1.6.nupkg.sha512",

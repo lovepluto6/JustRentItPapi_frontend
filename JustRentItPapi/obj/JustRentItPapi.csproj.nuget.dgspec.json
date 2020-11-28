@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luanr\\source\\repos\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj": {}
+    "C:\\Users\\luanr\\Desktop\\COMP306\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luanr\\source\\repos\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj": {
+    "C:\\Users\\luanr\\Desktop\\COMP306\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luanr\\source\\repos\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj",
+        "projectUniqueName": "C:\\Users\\luanr\\Desktop\\COMP306\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj",
         "projectName": "JustRentItPapi",
-        "projectPath": "C:\\Users\\luanr\\source\\repos\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj",
+        "projectPath": "C:\\Users\\luanr\\Desktop\\COMP306\\JustRentItPapi\\JustRentItPapi\\JustRentItPapi.csproj",
         "packagesPath": "C:\\Users\\luanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luanr\\source\\repos\\JustRentItPapi\\JustRentItPapi\\obj\\",
+        "outputPath": "C:\\Users\\luanr\\Desktop\\COMP306\\JustRentItPapi\\JustRentItPapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
